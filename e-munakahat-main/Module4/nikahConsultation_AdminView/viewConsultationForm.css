@@ -1,0 +1,258 @@
+.smallBanner1 {
+    background-color: grey;
+    color: #ffffff;
+    padding: 17px;
+    padding-left: 480px;
+    font-size: 15px;
+}
+
+.noIC{
+    text-align: center; 
+    line-height: 65px;
+    
+    
+}
+
+.reason{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+
+.aduann{
+    border-radius: 5px;
+    background-color: #DEDEDE;
+    opacity: .7;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    left: 0;
+    margin-top: 10px;
+}
+
+.smallBanner2{
+    background-color: grey;
+    color: #ffffff;
+    padding: 17px;
+    padding-left: 480px;
+    font-size: 15px;
+}
+
+.smallBanner3{
+    background-color: grey;
+    color: #ffffff;
+    padding: 17px;
+    padding-left: 480px;
+    font-size: 15px;
+}
+.namaaduu{
+    margin-left: 90px;
+}
+.noICadu{
+    border-radius: 5px;
+    background-color: #DEDEDE;
+    opacity: .7;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    left: 0;
+}
+
+.pengadu{
+    margin-top: 20px;
+    margin-left: 500px;
+    margin-bottom: 20px;
+    gap: 200px;
+}
+
+.nameAdu{
+    border-radius: 5px;
+    background-color: #DEDEDE;
+    opacity: .7;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    left: 0;
+}
+
+.bDate{
+    border-radius: 5px;
+    background-color: #DEDEDE;
+    opacity: .7;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    left: 0;
+}
+
+.warga{
+    margin-left: 155px;
+}
+
+.warganegara{
+    border-radius: 5px;
+    background-color: #DEDEDE;
+    opacity: .7;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.alamat{
+    border-radius: 5px;
+    background-color: #DEDEDE;
+    opacity: .7;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    left: 0;
+    height: 100px;
+}
+
+.notel{
+    border-radius: 5px;
+    background-color: #DEDEDE;
+    opacity: .7;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    left: 0;
+}
+
+.sektor{
+    border-radius: 5px;
+    background-color: #DEDEDE;
+    opacity: .7;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    left: 0;
+}
+
+.jawatan{
+    border-radius: 5px;
+    background-color: #DEDEDE;
+    opacity: .7;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    left: 0;
+}
+
+.salary{
+    margin-left: 150px;
+}
+.gaji{
+    border-radius: 5px;
+    background-color: #DEDEDE;
+    opacity: .7;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    left: 0;
+}
+
+.tahap{
+    border-radius: 5px;
+    background-color: #DEDEDE;
+    opacity: .7;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    left: 0;
+}
+
+.kdate{
+    border-radius: 5px;
+    background-color: #DEDEDE;
+    opacity: .7;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    left: 0;
+}
+
+.icpasangan{
+    border-radius: 5px;
+    background-color: #DEDEDE;
+    opacity: .7;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    left: 0;
+}
+
+.pasangan{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 500px;
+}
+
+.namapas{
+margin-left: 80px;
+}
+
+.namapasangan{
+    border-radius: 5px;
+    background-color: #DEDEDE;
+    opacity: .7;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    left: 0;
+}
+
+.info{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 500px;
+}
+
+.infoaduan{
+    border-radius: 5px;
+    background-color: #DEDEDE;
+    opacity: .7;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    left: 0;
+}
+
+.nav2{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    gap: 120px;
+}
+
+.back{
+    border-radius: 5px;
+    background-color: grey;
+    color: white;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    cursor: pointer;
+}
+
+.back:hover{
+    background-color: #D3CECE;
+    color: #fff;
+}
+
+.hantar{
+    border-radius: 5px;
+    background-color: #1E2772;
+    color: white;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    cursor: pointer;
+}
+
+.hantar:hover{
+    background-color: #01236F;
+    color: #fff;
+}

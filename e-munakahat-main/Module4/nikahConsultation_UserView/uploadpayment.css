@@ -1,0 +1,56 @@
+.smallBanner2{
+  background-color: grey;
+    color: #ffffff;
+    padding: 17px;
+    padding-left: 480px;
+    font-size: 15px;
+}
+
+.container {
+    width: 500px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    margin-left: 700px;
+    margin-top: 20px;
+  }
+
+  input[type="file"] {
+    display: none;
+  }
+
+  .upload-label{
+    cursor: pointer;
+    color: darkblue;
+  }
+
+ .note{
+  color: red;
+ }
+
+ .hantar{
+  border-radius: 5px;
+    background-color: #1E2772;
+    color: white;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    margin: auto;
+    display: grid;
+    display: flex;
+    margin-top: 50px;
+    cursor: pointer; 
+ }
+
+ .hantar:hover{
+  background-color: #082661;
+  color: #fff;
+ }
+ .note, .note2{
+  margin-left: 420px;
+  margin-top: 20px;
+ }
+
+ .note0{
+  margin-left: 20px;
+ }

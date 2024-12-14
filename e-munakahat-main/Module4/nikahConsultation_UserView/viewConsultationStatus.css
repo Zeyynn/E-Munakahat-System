@@ -1,0 +1,101 @@
+.catatan{
+    color: red;
+    margin-left: 30%;
+}
+
+.container{
+    justify-content: center;
+    align-items: left;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.enterID{
+    border-radius: 5px;
+    background-color: #DEDEDE;
+    opacity: .7;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    left: 0;
+}
+
+.semak{
+    border-radius: 5px;
+    background-color: #1E2772;
+    color: white;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    cursor: pointer;
+}
+
+.semak:hover{
+    background-color: #082661;
+    color: #fff;
+}
+
+.ongoing {
+    border-radius: 5px;
+    background-color: #1E2772;
+    color: white;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    margin: auto;
+    display: grid;
+    display: flex;
+    margin-top: 50px;
+    cursor: pointer;
+    
+    
+}
+
+.ongoing:hover{
+    background-color: #082661;
+    color: #fff;
+}
+
+.noIC{
+    text-align: center; 
+    line-height: 65px;
+    
+    
+}
+
+.List{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.add{
+    border-radius: 5px;
+    background-color: #1E2772;
+    color: white;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    margin: auto;
+    display: grid;
+    display: flex;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.add:hover{
+    background-color: #082661;
+    color: #fff;
+}
+
+.catatan{
+    text-align: center;
+}
+
+.aduan{
+    text-align: center;
+}
+
+
+

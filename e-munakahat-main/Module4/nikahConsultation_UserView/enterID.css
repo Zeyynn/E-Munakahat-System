@@ -1,0 +1,64 @@
+.container{
+    justify-content: center;
+    align-items: left;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.enterID{
+    border-radius: 5px;
+    background-color: #DEDEDE;
+    opacity: .7;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    left: 0;
+}
+
+.semak{
+    border-radius: 5px;
+    background-color: #1E2772;
+    color: white;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    cursor: pointer;
+}
+
+.semak:hover{
+    background-color: #082661;
+    color: #fff;
+}
+
+.noIC{
+    text-align: center; 
+    line-height: 65px;
+}
+
+.catatan{
+    color: red;
+    margin-left: 30%;
+}
+
+.aduan{
+    margin-left: 30%;
+}
+
+.ongoing {
+    border-radius: 5px;
+    background-color: #1E2772;
+    color: white;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    margin: auto;
+    display: grid;
+    display: flex;
+    margin-top: 50px; 
+}
+
+.icname > input{
+    background-color: #1E2772;
+}
+

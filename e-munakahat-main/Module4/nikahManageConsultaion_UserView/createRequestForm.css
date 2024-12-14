@@ -1,0 +1,45 @@
+.smallBanner1{
+    background-color: grey;
+    color: #ffffff;
+    padding: 17px;
+    padding-left: 480px;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+.tukar, .penasihat, .tarikh2, .time{
+    border-radius: 5px;
+    background-color: #DEDEDE;
+    opacity: .7;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.label{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.hantar{
+    border-radius: 5px;
+    background-color: #1E2772;
+    color: white;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: right;
+    margin: auto;
+    display: grid;
+    display: flex;
+    margin-top: 50px; 
+    cursor: pointer;
+}
+
+.hantar:hover{
+    background-color: #082661;
+    color: #fff;
+}

@@ -1,0 +1,127 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins';
+    letter-spacing: 0.5px;
+}
+
+.banner {
+    padding: 25px;
+    background-color: #9ee3f2;
+}
+
+.symbol {
+    height: 100px;
+    width: auto;
+}
+
+.logo {
+    height: 100px;
+    width: auto;
+    padding-left: 28%;
+}
+
+.sidebar {
+    background-color: #dedede;
+    float: left;
+    display: flex;
+    justify-content: center;
+    /*align-items: center;*/
+    width: 400px;
+    height: 1000px;
+    box-shadow: -10px 10px 20px #afafb6 inset;
+}
+
+.sidebarMenu {
+    position: absolute;
+}
+
+.sidebarMenu table {
+    background-color: #ffffff;
+    border: 2px solid #d5d5d5;
+    border-bottom: 1px solid #d5d5d5;
+    border-radius: 0px;
+    padding: 15px;
+    width: 300px;
+    height: 50px;
+    text-align: left;
+    margin-left: 50px;
+}
+
+ul {
+    padding-left: 30px;
+}
+
+hr {
+    margin: 20px 0px 10px 0px;
+}
+
+.smallTitle {
+    margin-bottom: 10px;
+    text-align: right;
+    font-size: 13px;
+}
+
+.quickView .topTitle {
+    background-color: #ffffff;
+    width: 300px;
+    height: 50px;
+    padding: 5px;
+    border: 2px solid #d5d5d5;
+    margin-bottom: 10px;
+    margin-top: 50px;
+}
+
+.quickView .topTitle th{
+    background-color: #ffffff;
+    border: 2px solid #d5d5d5;
+    padding: 5px;
+}
+
+.quickView .bottomTitle {
+    background-color: #ffffff;
+    width: 300px;
+    height: 50px;
+    padding: 5px;
+    border: 2px solid #d5d5d5;
+    margin-bottom: 50px;
+}
+
+.quickView .bottomTitle th{
+    background-color: #ffffff;
+    border: 2px solid #d5d5d5;
+    padding: 5px;
+}
+
+.title {
+    width: 100px;
+}
+
+.smallBanner {
+    background-color: #1c2476;
+    color: #ffffff;
+    padding: 17px;
+    padding-left: 480px;
+    font-size: 15px;
+}
+
+.profile {
+    max-width: 290px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding:20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    justify-content: center;
+    line-height: 1.7;
+        
+}
+
+.kemaskinibtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #1E2772;
+    
+  }
+
+  
